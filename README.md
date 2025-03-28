@@ -47,5 +47,3 @@ L'objectif est de comprendre leurs différences et cas d'utilisation à travers 
 ---
 
 📌 **Auteur :** Yapeaud Beda 
-
-Dis-moi si tu veux ajouter des détails ou modifier des sections ! 🚀  
